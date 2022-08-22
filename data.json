@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "producto": "Torta de cumpleaños",
+        "precio": 3500,
+        "img": "http://127.0.0.1:5500/assets/image/Tortas/Torta%20cumple.jpg"
+    },
+    {
+        "id": 2,
+        "producto": "Torta love",
+        "precio": 2900,
+        "img":"http://127.0.0.1:5500/assets/image/Tortas/Torta%20love.jpg"
+    },
+    {
+        "id": 3,
+        "producto": "Torta macarrone",
+        "precio": 3100,
+        "img":"http://127.0.0.1:5500/assets/image/Tortas/Torta%20macarrones.jpg"
+    },
+    {
+        "id": 4,
+        "producto": "Brownie",
+        "precio": 2500,
+        "img":"http://127.0.0.1:5500/assets/image/Tartas/Brownie.jpg"
+    },
+    {
+        "id": 5,
+        "producto": "Lemon pie",
+        "precio": 2200,
+        "img":"http://127.0.0.1:5500/assets/image/Tartas/Lemon%20pie.jpg" 
+    },
+    {
+        "id": 6,
+        "producto": "Mil hojas",
+        "precio": 2100,
+        "img":"http://127.0.0.1:5500/assets/image/Tartas/Mil%20hojas.jpg"
+    },
+    {
+        "id": 7,
+        "producto": "Tarta cabsha",
+        "precio": 3000,
+        "img":"http://127.0.0.1:5500/assets/image/Tartas/Tarta%20cabsha.jpg"
+    },
+    {
+        "id": 8,
+        "producto": "Tarta de coco",
+        "precio": 2400,
+        "img":"http://127.0.0.1:5500/assets/image/Tartas/tarta%20de%20coco.jpg"
+    },
+    {
+        "id": 9,
+        "producto": "Mini tarta de lemon pie",
+        "precio": 1500,
+        "img":"http://127.0.0.1:5500/assets/image/Tartas/Mini%20lemon%20pie.jpg"
+    },
+    {
+        "id": 10,
+        "producto": "Mini tarta brownie",
+        "precio": 1600,
+        "img":"http://127.0.0.1:5500/assets/image/Tartas/Mini%20tarta%20brownie.jpg"
+    },
+    {
+        "id": 11,
+        "producto": "Bombones x12u",
+        "precio": 1300,
+        "img":"http://127.0.0.1:5500/assets/image/Bomboneria/Bombones.jpg"
+    },
+    {
+        "id": 12,
+        "producto": "Cake pops x12u",
+        "precio": 1000,
+        "img":"http://127.0.0.1:5500/assets/image/Bomboneria/cake%20pops.jpg"
+    }
+]
